@@ -1,7 +1,7 @@
 {
   "name": "nft-app",
   "version": "0.1.0",
-  "homepage": "/reactjs/cody-miller",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@stripe/react-stripe-js": "^1.16.4",
